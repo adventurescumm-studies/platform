@@ -1,3 +1,0 @@
-[submodule "api/auth"]
-	path = api/auth
-	url = https://github.com/adventurescumm-studies/auth.git
