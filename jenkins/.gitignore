@@ -1,7 +1,8 @@
 venv
 .env
 env
-data
+config/
+
 
 # Compiled class file
 *.class
