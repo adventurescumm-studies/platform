@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrafana_assistant_app=self.webpackChunkgrafana_assistant_app||[]).push([[88018],{88018(s,a,n){n.d(a,{AssistantSkeletonIcon:()=>p});var t=n(56308),e=n(89806);const p=()=>(0,t.jsx)(e.Int,{component:e.HTA,size:"lg"})}}]);
